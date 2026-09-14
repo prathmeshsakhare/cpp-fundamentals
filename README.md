@@ -24,6 +24,6 @@ The program evaluates battle performance against three core village structures:
 Compile and run using any C++ compiler:
 ```bash
 g++ clash-star-evaluator.cpp -o clash-sim
-./clash-sim# cpp-fundamentals
+./clash-sim
 ---
 **Author:** Prathmesh Sakhare
